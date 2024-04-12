@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+.errmsg {
+  color: red;
+}
+
+.card-header{
+  background-color: #04AA6D;
+  color: white;
+}
+
+.card-body {
+  font-size:x-large;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-align: center;
+  opacity: 0.80;
+  padding: 16px;
+}
+
+
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.psw {
+  font-size:x-large;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: black
+ 
+  
+}
+
+.Mapscrn {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+	background: #141414;
+	color: #ffffff;
+}
+
+.movie-app > .row {
+	overflow-x: auto;
+	flex-wrap: nowrap;
+}
+.image-container {
+	position: relative;
+	transition: transform 0.2s;
+	display: block;
+	margin-left: 40%;
+	margin-right: auto;
+	width: 50%;
+}
+
+.image-container:hover {
+	cursor: pointer;
+	transform: scale(1.1);
+}
+
+.image-container:hover .overlay {
+	opacity: 1;
+}
+
+.overlay {
+	position: absolute;
+	background: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	transition: 0.5s ease;
+	opacity: 0;
+	bottom: 0;
+	font-size: 20px;
+	padding: 20px;
+	text-align: center;
+}

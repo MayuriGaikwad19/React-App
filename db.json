@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "id": "Bhushan@123",
+      "fullname": "Bhushan Shrikrushn Kusale",
+      "password": "Bhushan77"
+    },
+    {
+      "id": "Mayuri@123",
+      "fullname": "Mayuri Mansing Gaikwad",
+      "password": "Mayu123"
+    },
+    {
+      "id": "Mansing@77",
+      "fullname": "Mansing Gaikwad",
+      "password": "Man77"
+    },
+    {
+      "id": "Pushpa@7",
+      "fullname": "Pushpa Gaikwad",
+      "password": "Push7"
+    },
+    {
+      "id": "Megha123",
+      "fullname": "Megha Gaikwad",
+      "password": "Megh1"
+    }
+  ]
+
+}
+
+
+ 
+
+  

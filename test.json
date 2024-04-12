@@ -1,0 +1,32 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "location": "location-1",
+      "lat":"12.7969",
+      "lng": "77.3838"
+    },
+
+    {
+      "id": 2,
+      "location": "location-2",
+      "lat":"13.0693",
+      "lng": "77.7982"
+    },
+
+    {
+      "id": 3,
+      "location": "location-3",
+      "lat":"12.7409",
+      "lng": "77.8253"
+    },
+
+    {
+      "id": 4,
+      "location": "location-4",
+      "lat":"12.971599",
+      "lng": "77.594566"
+    }
+  ]
+  
+  }
